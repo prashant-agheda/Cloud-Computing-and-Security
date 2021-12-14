@@ -1,8 +1,6 @@
 # Cloud Computing and Security Mind-Maps
 
-- 👋 Hello everyone, I am **Prashant Agheda**. I will be sharing the **Mind-maps** for Cloud Computing and Security Lectures on a Daily Basis so keep an eye on this page for further updates.
-
-
+- 👋 Hello everyone, I am **Prashant Agheda**. I will be sharing the **Mind-maps** for Cloud Computing and Security Lectures on a Daily Basis so keep an eye on this page for further updates.<br><br>
 
 
 # All Mind Maps

@@ -5,8 +5,9 @@
 
 # All Mind Maps
 
-![Mind Map 1](mindmaps/mindmap_1.png)
 ## Fundamentals of Cloud Computing (30th October 2021)
+
+<img src="mindmaps/mindmap_1.png" width="400" height="400">
 ---
 
 

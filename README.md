@@ -5,14 +5,14 @@
 
 # All Mind Maps
 
-![Mind Map 1](images/mindmap_1.png)
+![Mind Map 1](mindmaps/mindmap_1.png)
 
 ---
 
-![Mind Map 2](images/mindmap_2.png)
+![Mind Map 2](mindmaps/mindmap_2.png)
 
 ---
 
-![Mind Map 3](images/mindmap_3.png)
+![Mind Map 3](mindmaps/mindmap_3.png)
 
 ---

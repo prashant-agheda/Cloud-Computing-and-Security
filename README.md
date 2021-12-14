@@ -6,13 +6,15 @@
 # All Mind Maps
 
 ![Mind Map 1](mindmaps/mindmap_1.png)
-
+## Fundamentals of Cloud Computing (30th October 2021)
 ---
+
 
 ![Mind Map 2](mindmaps/mindmap_2.png)
-
+## Cloud Security and Threats (10th December 2021)
 ---
 
-![Mind Map 3](mindmaps/mindmap_3.png)
 
+![Mind Map 3](mindmaps/mindmap_3.png)
+## Methods to Ensure Cloud and Data Security (13th Dec 2021)
 ---

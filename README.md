@@ -7,15 +7,17 @@
 
 ## Fundamentals of Cloud Computing (30th October 2021)
 
-<img src="mindmaps/mindmap_1.png" width="800" height="400">
+<img src="mindmaps/mindmap_1.png" alt="Fundamentals of Cloud Computing (30th October 2021)">
 ---
 
 
-![Mind Map 2](mindmaps/mindmap_2.png)
 ## Cloud Security and Threats (10th December 2021)
+
+<img src="mindmaps/mindmap_2.png" alt="Cloud Security and Threats (10th December 2021)">
 ---
 
 
-![Mind Map 3](mindmaps/mindmap_3.png)
 ## Methods to Ensure Cloud and Data Security (13th Dec 2021)
+
+<img src="mindmaps/mindmap_3.png" alt="Methods to Ensure Cloud and Data Security (13th Dec 2021)">
 ---

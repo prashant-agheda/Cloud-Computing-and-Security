@@ -17,7 +17,7 @@
 -----
 
 
-## Methods to Ensure Cloud and Data Security (13th Dec 2021)
+## Methods to Ensure Cloud and Data Security (13th December 2021)
 
-<img src="mindmaps/mindmap_3.png" alt="Methods to Ensure Cloud and Data Security (13th Dec 2021)">
+<img src="mindmaps/mindmap_3.png" alt="Methods to Ensure Cloud and Data Security (13th December 2021)">
 -----

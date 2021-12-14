@@ -3,6 +3,8 @@
 - 👋 Hello everyone, I am **Prashant Agheda**. I will be sharing the **Mind-maps** for Cloud Computing and Security Lectures on a Daily Basis so keep an eye on this page for further updates.
 
 
+
+
 # All Mind Maps
 
 ## Fundamentals of Cloud Computing (30th October 2021)

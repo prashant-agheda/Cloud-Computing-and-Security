@@ -27,3 +27,21 @@
 
 <img src="mindmaps/mindmap_4.jpg" alt="Identify, Entitlement and Access Management (16th December 2021)">
 -----
+
+
+## 5) Threats in Healthcare Cloud Computing (17 December 2021)
+
+<img src="mindmaps/mindmap_5.jpg" alt="Threats in Healthcare Cloud Computing (17 December 2021)">
+-----
+
+
+## 6) Data Security Controls (21 December 2021)
+
+<img src="mindmaps/mindmap_6.jpg" alt="Data Security Controls (21 December 2021)">
+-----
+
+
+## 7) Summary of Fundamentals of Cloud Security (21 December 2021)
+
+<img src="mindmaps/mindmap_7.jpg" alt="Summary of Fundamentals of Cloud Security (21 December 2021)">
+-----

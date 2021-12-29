@@ -45,3 +45,22 @@
 
 <img src="mindmaps/mindmap_7.jpg" alt="Summary of Fundamentals of Cloud Security (21 December 2021)">
 -----
+
+
+
+## 8) Advanced Cloud Security (27 December 2021)
+
+<img src="mindmaps/mindmap_8.jpg" alt="Advanced Cloud Security (27 December 2021)">
+-----
+
+
+## 9) Application Security (27 December 2021)
+
+<img src="mindmaps/mindmap_9.jpg" alt="Application Security (27 December 2021)">
+-----
+
+
+## 10) Cloud Security Models and Recommendations (28 December 2021)
+
+<img src="mindmaps/mindmap_10.jpg" alt="Cloud Security Models and Recommendations (28 December 2021)">
+-----

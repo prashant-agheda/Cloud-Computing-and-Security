@@ -64,3 +64,9 @@
 
 <img src="mindmaps/mindmap_10.jpg" alt="Cloud Security Models and Recommendations (28 December 2021)">
 -----
+
+
+## 11) Security as a Service (SecaaS) (31 December 2021)
+
+<img src="mindmaps/mindmap_11.jpg" alt="Security as a Service (SecaaS) (31 December 2021)">
+-----

@@ -70,3 +70,15 @@
 
 <img src="mindmaps/mindmap_11.jpg" alt="Security as a Service (SecaaS) (31 December 2021)">
 -----
+
+
+## 12) Incident Response (4 January 2022)
+
+<img src="mindmaps/mindmap_12.jpg" alt="Incident Response (4 January 2022)">
+-----
+
+
+## 13) Related Technologies (4 January 2022)
+
+<img src="mindmaps/mindmap_13.jpg" alt="Related Technologies (4 January 2022)">
+-----

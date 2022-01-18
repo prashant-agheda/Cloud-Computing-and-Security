@@ -83,3 +83,15 @@
 
 <img src="mindmaps/mindmap_13.jpg" alt="Related Technologies (4 January 2022)">
 -----
+
+
+## 14) Fundamental Cloud Architectures (10 January 2022)
+
+<img src="mindmaps/mindmap_14.jpg" alt="Fundamental Cloud Architectures (10 January 2022)">
+-----
+
+
+## 15) Advanced Cloud Architectures (17 January 2022)
+
+<img src="mindmaps/mindmap_15.jpg" alt="Advanced Cloud Architectures (17 January 2022)">
+-----
